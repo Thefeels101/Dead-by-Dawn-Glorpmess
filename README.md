@@ -1,6 +1,6 @@
 {
 	"Name": "Dead by Dawn Glorpmas",
-	"Version": 1795651039,
+	"Version": 1795657979,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -34,6 +34,7 @@
 				"28",
 				"286",
 				"288",
+				"312",
 				"33",
 				"41",
 				"108",
@@ -52,6 +53,7 @@
 				"59",
 				"62",
 				"66",
+				"67",
 				"69",
 				"269",
 				"74",
@@ -67,6 +69,7 @@
 				"88",
 				"89",
 				"90",
+				"320",
 				"99",
 				"100",
 				"103",
@@ -86,6 +89,7 @@
 				"119",
 				"120",
 				"122",
+				"126",
 				"304",
 				"254",
 				"130"
@@ -99,18 +103,22 @@
 				"137",
 				"138",
 				"140",
+				"315",
 				"146",
 				"147",
+				"148",
 				"149",
 				"150",
 				"153",
 				"155",
 				"156",
 				"163",
+				"165",
 				"244",
 				"168",
 				"283",
 				"171",
+				"174",
 				"179",
 				"175",
 				"299",
@@ -122,6 +130,7 @@
 				"182",
 				"183",
 				"243",
+				"316",
 				"185",
 				"265",
 				"187",
@@ -162,10 +171,6 @@
 				[
 					"314",
 					"65"
-				],
-				[
-					"76",
-					"67"
 				],
 				[
 					"78",
@@ -245,6 +250,7 @@
 				"112",
 				"121",
 				"326",
+				"126",
 				"127",
 				"128",
 				"36"
@@ -289,7 +295,9 @@
 				"128",
 				"36"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"198"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
@@ -316,6 +324,7 @@
 				"36"
 			],
 			"KillerIndvPerkBans": [
+				"198",
 				"297"
 			],
 			"SurvivorComboPerkBans": [],
@@ -335,6 +344,7 @@
 				"174",
 				"184",
 				"317",
+				"198",
 				"220",
 				"297"
 			],
@@ -672,7 +682,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"26"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -693,7 +705,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -747,7 +761,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				148,
+				153,
+				154,
+				155,
+				158
+			],
 			"ItemWhitelist": [
 				0,
 				5
@@ -758,7 +778,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1419,7 +1441,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -1491,7 +1515,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2391,11 +2417,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2571,7 +2597,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2746,7 +2774,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
@@ -2975,7 +3005,10 @@
 				},
 				"Flashlight": {
 					"Addons": [
-						2
+						1,
+						2,
+						3,
+						4
 					]
 				},
 				"Med-Kit": {
